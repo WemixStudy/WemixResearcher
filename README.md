@@ -41,7 +41,10 @@ __**2. 거래업자** (관련 유권해석)
 
 #### _ii. 운영방식
 1.  해당 왈렛은 ‘중앙화왈렛’으로 :no_entry_sign: ***`이용자가 개인키를 추출하는게 불가능`*** 하며, 이메일, SNS 등으로 로그인하는 시스템. 따라서 새로운 신규 기기에서 로그인해도 거래 및 출금이 가능.
-2.  ***`위믹스 내부에 ‘암호화된 개인키’를 보관`*** 하며, 따라서 고객에게 거래나 출금 등의 제한을 가할 수 있고 내부정책에 따라 실제로 제재를 하며 운영 중
+2.  ***`위믹스 내부에 ‘암호화된 개인키’를 보관`*** 하며, 따라서 고객에게 거래나 출금 등의 제한을 가할 수 있고 내부정책에 따라 실제로 제재를 하며 운영 중(제재 사례 하단 캡처, 및 [관련기사](https://www.epnc.co.kr/news/articleView.html?idxno=218011)참조)
+<img width="454" alt="그림8" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/12daa4a6-3143-45c1-8fac-7aa8b9176c96">
+<img width="512" alt="그림9" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/dc4b9c95-9332-486e-a34b-4047cca60cc8">
+
 3.  따라서 플레이왈렛이 ***`해킹, 파산, 서비스 종료시, 고객은 자신의 자산을 찾을 수 없음. 또한 고객의 거래/입출금 서비스에 대한 통제가 가능함`***
 4.  해당 :no_entry_sign: ***`지갑의 수익은 위믹스의 수익으로 귀속`*** 됨
 
@@ -112,16 +115,18 @@ __**2. 거래업자** (관련 유권해석)
 1. 플레이왈렛의 [수수료 정책](https://wemadetree.zendesk.com/hc/ko/articles/4422422797844-PLAY-Wallet%EC%9D%98-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-) & 피닉스 거래소 [수수료 정책](https://wemixplay.zendesk.com/hc/ko/articles/21143111682841-PNIX-DEX-%EC%9D%B4%EC%9A%A9-%EC%8B%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%9A%B0%EB%8C%80-%ED%98%9C%ED%83%9D%EC%9D%B4-%EC%9E%88%EB%82%98%EC%9A%94-) 참조
 
 <br>
+
 ### **B.지배구조**
-#### _i. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)불법영업 행위의 주체인 ***`위믹스는 영리법인`***으로 ***`싱가포르와 한국에 법인`***을 두고 있음
+#### _i. :no_entry_sign:불법영업 행위의 주체인 ***`위믹스는 영리법인`***으로 ***`싱가포르와 한국에 법인`***을 두고 있음
 1. 싱가포르 법인: WEMIX PTE. LTD. ([사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/issues/3#issue-1977909909)
 2. **한국 법인(지점): 위믹스 피티이 엘티디** ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/issues/2#issue-1977907587))
-#### _i. 위 두 법인을 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
+#### _i. 위 두 법인을 :no_entry_sign:***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
 1. 한국 법인: 주식회사 위메이드 (
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503))
 
 <br>
-### **C.국내 영향
+
+### **C.국내 영향**
 #### _i. 지배구조
 1. 관련 모든 법인이 국내 법인에 해당
 #### _ii. 서비스 제공
@@ -130,12 +135,3 @@ __**2. 거래업자** (관련 유권해석)
 3. 한국어 [웹사이트](http://wemix.com), [블로그](https://www.wemix.com/ko/communication), 유투브, 커뮤니티, 기타 홍보채널 운영
 #### _iii. 매출 귀속
 1. 해당 플랫폼의 매출은 모두 국내 법인인 위메이드에 귀속됨
-
-
-
-<img width="479" alt="그림3" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/81baa292-b64b-44e8-afc4-cd53fac1a41c">
-
-<img width="555" alt="그림4" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3a2a3295-bafd-4ee4-a002-03d4ec0df374">
-
-<img width="344" alt="그림5" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/9e0f70bd-da23-4c0d-9476-3f247faaa5ec">
-
