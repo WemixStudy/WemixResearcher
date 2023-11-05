@@ -96,17 +96,8 @@ __**2. 거래업자** (관련 유권해석)
 
 ### **b.지배구조**
 #### _i. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)불법영업 행위의 주체인 ***`위믹스는 영리법인`***으로 ***`싱가포르와 한국에 법인`***을 두고 있음
-1. 싱가포르 법인: WEMIX PTE. LTD. ([사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/files/13260435/_.100.pdf))
-2. **한국 법인(지점): 위믹스 피티이 엘티디** ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260421/_._.pdf)
-)
+1. 싱가포르 법인: WEMIX PTE. LTD. ([사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/issues/3#issue-1977909909)
+2. **한국 법인(지점): 위믹스 피티이 엘티디** ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/issues/2#issue-1977907587))
 #### _i. 위 두 법인을 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
 1. 한국 법인: 주식회사 위메이드 (
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503))
-
-[사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf)
-
-
-[사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260434/_.pdf)
-
-[사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/files/13260435/_.100.pdf)
-[사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260421/_._.pdf)
