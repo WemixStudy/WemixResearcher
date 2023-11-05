@@ -92,17 +92,20 @@ __**2. 거래업자** (관련 유권해석)
 #### _ii. 위메이드의 IR자료인 연결실적 [1분기](https://irsvc.teletogether.com/wemade/pdf/wemade2023Q1_kor.pdf)와 [2분기](https://file.wemade.com/homepage/upload/20230808223321331_FY23%202Q%20Earnings%20Release%20PT(KOR)_20230809.pdf) 자료를 보면, 위믹스 플랫폼 관련 수익을 매출항목으로 분류하고 있음. 
 
 ![photo_2023-11-06_03-06-22](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/0ff0ae6e-abc7-48b6-b09a-346998d0f5d7)
-
 1. 플레이왈렛의 수수료 정책 & 피닉스 거래소 수수료 정책 참조
 
 ### **b.지배구조**
-#### _i. 불법영업 행위의 주체인 위믹스는 영리법인으로 싱가포르와 한국에 법인을 두고 있음
+#### _i. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)불법영업 행위의 주체인 ***`위믹스는 영리법인`***으로 ***`싱가포르와 한국에 법인`***을 두고 있음
 1. 싱가포르 법인: WEMIX PTE. LTD. ([사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/files/13260435/_.100.pdf))
-2. 한국 법인(지점): 위믹스 피티이 엘티디 ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260421/_._.pdf)
+2. **한국 법인(지점): 위믹스 피티이 엘티디** ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260421/_._.pdf)
 )
-#### _i. 위 두 법인을 100% 소유한 모회사는 코스닥 상장사인 위메이드 
-1. 한국 법인: 주식회사 위메이드 (사업자번호: 209-81-24419)
+#### _i. 위 두 법인을 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
+1. 한국 법인: 주식회사 위메이드 (
+[사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf))
 
+
+
+[사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf)
 
 
 [사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/files/13260434/_.pdf)
