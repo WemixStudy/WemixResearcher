@@ -101,8 +101,8 @@ __**2. 거래업자** (관련 유권해석)
 )
 #### _i. 위 두 법인을 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
 1. 한국 법인: 주식회사 위메이드 (
-[사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf))
-
+[사업자번호: 209-81-24419]([위메이드]([https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503)))[
+](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503)](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503)))
 
 
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/files/13260458/-.pdf)
