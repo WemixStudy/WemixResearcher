@@ -2,11 +2,11 @@
 
 ## 1. 가상자산사업자 정의
 
-### **a. 가상자산사업자 ‘`가상자산의 매도 매수, 교환, 이전, 보관 관리, 중개 알선` 등의 영업을 하는 자’**
+### **A. 가상자산사업자 ‘`가상자산의 매도 매수, 교환, 이전, 보관 관리, 중개 알선` 등의 영업을 하는 자’**
 
-### **b. 영업으로 한다는 것은 `영리를 목적으로 동종의 행위를 계속하여 반복`하는 것을 의미**
+### **B. 영업으로 한다는 것은 `영리를 목적으로 동종의 행위를 계속하여 반복`하는 것을 의미**
 
-### **c. :warning:위 행위를 하려면 가상자산사업자로 신고 필요.  :arrow_right: ***신고하지 않는다면 ‘미신고 가상자산사업자’로 :no_entry_sign:`불법영업행위`*** 에 해당**
+### **C. :warning:위 행위를 하려면 가상자산사업자로 신고 필요.  :arrow_right: ***신고하지 않는다면 ‘미신고 가상자산사업자’로 :no_entry_sign:`불법영업행위`*** 에 해당**
 
 #### _i. 예외인 경우
 __**1. 지갑서비스업자**
@@ -28,11 +28,13 @@ __**1. 지갑서비스업자** (관련 유권해석)
 
 __**2. 거래업자** (관련 유권해석)
  * 가상자산 보유자들 간 가상자산을 주고 받을 수 있는 :red_circle: ***`플랫폼 서비스를 제공하며 그 대가로 이익을 수취`*** 하는 경우, :red_circle:**`영업으로가상자산 이전 혹은 매도·매수·교환 행위의 중개·알선·대행을 하는 것에 해당`*** 하여 특정금융정보법상 :red_circle:***`가상자산사업자의 행위유형에 포함`*** 될 여지
+<br>
 
---
 ## :no_entry_sign: 2. 위믹스 불법행위
 
-### :no_entry_sign: **a. 불법 지갑서비스업자 운영 (:red_circle:지갑)**
+
+### :no_entry_sign: **A. 불법 지갑서비스업자 운영 (:red_circle:지갑)**
+
 #### _i. [플레이왈렛](https://wallet.wemixnetwork.com/) 운영. 2023년 2분기 기준 누적가입자수 915만명 ([분기보고서](https://file.wemade.com/homepage/upload/20230808223321331_FY23%202Q%20Earnings%20Release%20PT(KOR)_20230809.pdf)) 
 
 <img width="401" alt="그림1" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/001c7f8e-f9cf-4026-8dee-8771bebf6a36">
@@ -51,13 +53,15 @@ __**2. 거래업자** (관련 유권해석)
 
 <img width="344" alt="그림5" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/9e0f70bd-da23-4c0d-9476-3f247faaa5ec">
 
-5. [이용약관](https://www.wemix.com/ko/policy/terms)에도, 플레이왈렛(PLAY WALLET)의 경우 ***`프라이빗키를 별도로 저장하지 않는다는 문구가 빠져있음***. 
+5. [이용약관](https://www.wemix.com/ko/policy/terms)에도, 플레이왈렛(PLAY WALLET)의 경우 ***`프라이빗키를 별도로 저장하지 않는다는 문구가 빠져있음`***. 
 
+<br>
 
-### :no_entry_sign: **b. 불법 거래업자 운영 (:red_circle:거래소)**
+### :no_entry_sign: **B. 불법 거래업자 운영 (:red_circle:거래소)**
+ 
 #### _i. [피닉스 거래소](https://pnix.exchange/)와 [플레이체인](https://scope.wemixnetwork.com/1002/) & [토네이도체인](https://scope.wemixnetwork.com/1003/) 운영. 위믹스 게임 생태계의 중심 거래소로 40종 이상의 가상자산 상장
 
-<img width="411" alt="그림2" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/7ab52644-33a8-4e06-9952-93e7ebb3c9f0">
+<img width="532" alt="그림7" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/9bb78d4b-bd7c-45ce-bc79-4c324673f364">
 
 #### _ii. 운영방식
 1. 블록체인상 거래되는 기술로 구현되었으나, :no_entry_sign:***`‘중앙화거래소’`*** 와 동일하게 작동함.
@@ -73,8 +77,10 @@ __**2. 거래업자** (관련 유권해석)
 3. 최초 코인 상장일: [2022. 02. 25.](https://wemixnetwork.medium.com/ann-wemix-wallet-silthereum-listing-notice-f596f696604d) (실더리움(Silthereum) 상장)
 4. 가상자산사업자 신고의무발생일: 2021. 3. 25.
 5. :no_entry_sign: 불법영업일: 2022. 02. 25. ~ 2023. 11. (현재 약 1년 9개월)
+<br>
 
-### :no_entry_sign: **c. 불법 시세조종**
+### :no_entry_sign: **C. 불법 시세조종**
+
 #### _i. 가격과 직접적으로 관련된 발언을 기사화시킨 뒤,:arrow_right: 가상자산 발행사 및 발행사의 모회사 대표, 의장, 외부 파트너들을 활용하여 직접 가상자산을 사고 파는 형태의 시세조종 방식
 #### _ii. 시세 조종행위 타임라인
 1. 박관호 의장의 300억 매입(6개월내) 선언 ([2020510](https://medium.com/wemix-communication/ann-chairmans-wemix-token-purchase-announcement-bad6549768d))
@@ -94,15 +100,19 @@ __**2. 거래업자** (관련 유권해석)
 2. 박관호 의장이 일일 거래대금이 수천만원(코인원 기준)에 불과한 ***`소규모 시장에 직접 수백억을 투입`*** 하여, 시세조종 
 3. 개인이 투자목적으로 산 것이 아니라, 직접 시장에 영향을 주려는 목적에서 공식 매입뉴스를 내고 거래대금 수천만원 규모의 시장에 수백억원을 투입하여 매매한 행위를 볼때 의도적인 :no_entry_sign:***`시세조종 및 사기`*** 로 볼 가능성 있으며, 해당 자산이 상장사인 위메이드 주식을 처분함으로 마련된 것으로 볼때 최대주주로써의 :no_entry_sign:***`배임`*** 으로 판단될 여지 있음
 
+<br>
+
 ## 3. 위믹스 영업성
-### **a. 영업 인식** 
+### **A. 영업 인식** 
 #### _i. 위믹스는 위 불법영업행위 관련 매출을 모두 영업 관련 매출로 처리함
 #### _ii. 위메이드트리([현. 위믹스 싱가포르 법인](https://dealsite.co.kr/articles/84579))의 ‘2021년 3분기 영업수익’에서 “노드운영, WEMIX월렛 매출이 96.30%”로 언급됨 ([증권신고서](https://kind.krx.co.kr/common/disclsviewer.do?method=searchInitInfo&acptNo=20211203000601&docno=) 참조)
 #### _iii. 위메이드의 IR자료인 연결실적 2023년 [1분기](https://irsvc.teletogether.com/wemade/pdf/wemade2023Q1_kor.pdf)와 [2분기](https://file.wemade.com/homepage/upload/20230808223321331_FY23%202Q%20Earnings%20Release%20PT(KOR)_20230809.pdf) 자료를 보면, 위믹스 플랫폼 관련 수익을 매출항목으로 분류하고 있음. 
 <img width="555" alt="그림4" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3a2a3295-bafd-4ee4-a002-03d4ec0df374">
+
 1. 플레이왈렛의 [수수료 정책](https://wemadetree.zendesk.com/hc/ko/articles/4422422797844-PLAY-Wallet%EC%9D%98-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-) & 피닉스 거래소 [수수료 정책](https://wemixplay.zendesk.com/hc/ko/articles/21143111682841-PNIX-DEX-%EC%9D%B4%EC%9A%A9-%EC%8B%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%9A%B0%EB%8C%80-%ED%98%9C%ED%83%9D%EC%9D%B4-%EC%9E%88%EB%82%98%EC%9A%94-) 참조
 
-### **b.지배구조**
+<br>
+### **B.지배구조**
 #### _i. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)불법영업 행위의 주체인 ***`위믹스는 영리법인`***으로 ***`싱가포르와 한국에 법인`***을 두고 있음
 1. 싱가포르 법인: WEMIX PTE. LTD. ([사업자번호: 201903432D](https://github.com/WemixResearcher/WemixResearcher/issues/3#issue-1977909909)
 2. **한국 법인(지점): 위믹스 피티이 엘티디** ([사업자번호: 733-84-00022](https://github.com/WemixResearcher/WemixResearcher/issues/2#issue-1977907587))
@@ -110,7 +120,8 @@ __**2. 거래업자** (관련 유권해석)
 1. 한국 법인: 주식회사 위메이드 (
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503))
 
-### **c.국내 영향
+<br>
+### **C.국내 영향
 #### _i. 지배구조
 1. 관련 모든 법인이 국내 법인에 해당
 #### _ii. 서비스 제공
