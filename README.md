@@ -49,7 +49,8 @@ __**2. 거래업자** (관련 유권해석)
 3. 가상자산사업자 신고의무발생일: 2021. 03. 25.
 4. :no_entry_sign: 불법영업일: 2021. 03. 25. ~ 2023. 11. (현재 약 2년 8개월)
 
-![photo_2023-11-06_04-15-52](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3890388f-759d-4e72-9bff-533b59d3c15a)
+<img width="344" alt="그림5" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/9e0f70bd-da23-4c0d-9476-3f247faaa5ec">
+
 5. [이용약관](https://www.wemix.com/ko/policy/terms)에도, 플레이왈렛(PLAY WALLET)의 경우 ***`프라이빗키를 별도로 저장하지 않는다는 문구가 빠져있음***. 
 
 
@@ -88,7 +89,8 @@ __**2. 거래업자** (관련 유권해석)
 
 #### _iv. 시세조종 결과
 1. 9월 19일, 구주매각 대금으로 장내 매수 선언 후, 750원(일일 거래대금 1천만원), 11월 초 2400원. ***`5주간 약 3배`*** 가격상승
-![photo_2023-11-06_02-52-06](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/643244bf-82f2-4194-ac56-6839b6abdd62)
+<img width="479" alt="그림3" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/81baa292-b64b-44e8-afc4-cd53fac1a41c">
+
 2. 박관호 의장이 일일 거래대금이 수천만원(코인원 기준)에 불과한 ***`소규모 시장에 직접 수백억을 투입`*** 하여, 시세조종 
 3. 개인이 투자목적으로 산 것이 아니라, 직접 시장에 영향을 주려는 목적에서 공식 매입뉴스를 내고 거래대금 수천만원 규모의 시장에 수백억원을 투입하여 매매한 행위를 볼때 의도적인 :no_entry_sign:***`시세조종 및 사기`*** 로 볼 가능성 있으며, 해당 자산이 상장사인 위메이드 주식을 처분함으로 마련된 것으로 볼때 최대주주로써의 :no_entry_sign:***`배임`*** 으로 판단될 여지 있음
 
@@ -97,8 +99,7 @@ __**2. 거래업자** (관련 유권해석)
 #### _i. 위믹스는 위 불법영업행위 관련 매출을 모두 영업 관련 매출로 처리함
 #### _ii. 위메이드트리([현. 위믹스 싱가포르 법인](https://dealsite.co.kr/articles/84579))의 ‘2021년 3분기 영업수익’에서 “노드운영, WEMIX월렛 매출이 96.30%”로 언급됨 ([증권신고서](https://kind.krx.co.kr/common/disclsviewer.do?method=searchInitInfo&acptNo=20211203000601&docno=) 참조)
 #### _iii. 위메이드의 IR자료인 연결실적 2023년 [1분기](https://irsvc.teletogether.com/wemade/pdf/wemade2023Q1_kor.pdf)와 [2분기](https://file.wemade.com/homepage/upload/20230808223321331_FY23%202Q%20Earnings%20Release%20PT(KOR)_20230809.pdf) 자료를 보면, 위믹스 플랫폼 관련 수익을 매출항목으로 분류하고 있음. 
-
-![photo_2023-11-06_03-06-22](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/0ff0ae6e-abc7-48b6-b09a-346998d0f5d7)
+<img width="555" alt="그림4" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3a2a3295-bafd-4ee4-a002-03d4ec0df374">
 1. 플레이왈렛의 [수수료 정책](https://wemadetree.zendesk.com/hc/ko/articles/4422422797844-PLAY-Wallet%EC%9D%98-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-) & 피닉스 거래소 [수수료 정책](https://wemixplay.zendesk.com/hc/ko/articles/21143111682841-PNIX-DEX-%EC%9D%B4%EC%9A%A9-%EC%8B%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%9A%B0%EB%8C%80-%ED%98%9C%ED%83%9D%EC%9D%B4-%EC%9E%88%EB%82%98%EC%9A%94-) 참조
 
 ### **b.지배구조**
@@ -121,8 +122,9 @@ __**2. 거래업자** (관련 유권해석)
 
 
 
-<img width="401" alt="그림1" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/001c7f8e-f9cf-4026-8dee-8771bebf6a36">
+<img width="479" alt="그림3" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/81baa292-b64b-44e8-afc4-cd53fac1a41c">
 
-<img width="411" alt="그림2" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/7ab52644-33a8-4e06-9952-93e7ebb3c9f0">
+<img width="555" alt="그림4" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3a2a3295-bafd-4ee4-a002-03d4ec0df374">
 
+<img width="344" alt="그림5" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/9e0f70bd-da23-4c0d-9476-3f247faaa5ec">
 
