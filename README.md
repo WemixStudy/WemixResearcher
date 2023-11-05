@@ -107,6 +107,15 @@ __**2. 거래업자** (관련 유권해석)
 1. 한국 법인: 주식회사 위메이드 (
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503))
 
+### **c.국내 영향
+#### _i. 지배구조
+1. 관련 모든 법인이 국내 법인에 해당
+#### _ii. 서비스 제공
+1. 대부분 고객이 한국인
+2. 한국어 서비스 및 [고객센터](https://wemadetree.zendesk.com/hc/ko) 지원
+3. 한국어 [웹사이트](http://wemix.com), [블로그](https://www.wemix.com/ko/communication), 유투브, 커뮤니티, 기타 홍보채널 운영
+#### _iii. 매출 귀속
+1. 해당 플랫폼의 매출은 모두 국내 법인인 위메이드에 귀속됨
 
 
 
