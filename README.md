@@ -35,7 +35,7 @@ __**2. 거래업자** (관련 유권해석)
 ### :no_entry_sign: **a. 불법 지갑서비스업자 운영 (:red_circle:지갑)**
 #### _i. [플레이왈렛](https://wallet.wemixnetwork.com/) 운영. 2023년 2분기 기준 누적가입자수 915만명 ([분기보고서](https://file.wemade.com/homepage/upload/20230808223321331_FY23%202Q%20Earnings%20Release%20PT(KOR)_20230809.pdf)) 
 
-![photo_2023-11-06_02-28-28](https://github.com/WemixResearcher/Research/assets/149958468/5efa6d95-5241-4403-b70b-db2bbec74194)
+<img width="401" alt="그림1" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/001c7f8e-f9cf-4026-8dee-8771bebf6a36">
 
 #### _ii. 운영방식
 1.  해당 왈렛은 ‘중앙화왈렛’으로 :no_entry_sign: ***`이용자가 개인키를 추출하는게 불가능`*** 하며, 이메일, SNS 등으로 로그인하는 시스템. 따라서 새로운 신규 기기에서 로그인해도 거래 및 출금이 가능.
@@ -55,7 +55,9 @@ __**2. 거래업자** (관련 유권해석)
 
 ### :no_entry_sign: **b. 불법 거래업자 운영 (:red_circle:거래소)**
 #### _i. [피닉스 거래소](https://pnix.exchange/)와 [플레이체인](https://scope.wemixnetwork.com/1002/) & [토네이도체인](https://scope.wemixnetwork.com/1003/) 운영. 위믹스 게임 생태계의 중심 거래소로 40종 이상의 가상자산 상장
-![photo_2023-11-06_02-38-36](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/98cebb1e-b00d-4cd8-95f7-f3266b2009e9)
+
+<img width="411" alt="그림2" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/7ab52644-33a8-4e06-9952-93e7ebb3c9f0">
+
 #### _ii. 운영방식
 1. 블록체인상 거래되는 기술로 구현되었으나, :no_entry_sign:***`‘중앙화거래소’`*** 와 동일하게 작동함.
 2. 위믹스 내부의 비공개 블록체인인 ‘플레이체인’과 ‘토네이도체인’을 통해 운영됨. 이 비공개 블록체인상 발행 및 상장된 가상자산은 타블록체인으로 이동(브릿징)되어 현금화 될 수 있음. 해당 비공개 블록체인들은 ***`내부자들이 100%의 통제권을 가지고 운영`*** 함.
@@ -117,5 +119,10 @@ __**2. 거래업자** (관련 유권해석)
 #### _iii. 매출 귀속
 1. 해당 플랫폼의 매출은 모두 국내 법인인 위메이드에 귀속됨
 
+
+
+<img width="401" alt="그림1" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/001c7f8e-f9cf-4026-8dee-8771bebf6a36">
+
+<img width="411" alt="그림2" src="https://github.com/WemixResearcher/WemixResearcher/assets/149958468/7ab52644-33a8-4e06-9952-93e7ebb3c9f0">
 
 
