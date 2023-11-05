@@ -49,7 +49,8 @@ __**2. 거래업자** (관련 유권해석)
 3. 가상자산사업자 신고의무발생일: 2021. 03. 25.
 4. :no_entry_sign: 불법영업일: 2021. 03. 25. ~ 2023. 11. (현재 약 2년 8개월)
 
-5. [이용약관](https://www.wemix.com/ko/policy/terms)에서도, 플레이왈렛(PLAY WALLET)은 프라이빗키를 별도로 저장하지 않는다는 문구가 빠져있음. 
+![photo_2023-11-06_04-15-52](https://github.com/WemixResearcher/WemixResearcher/assets/149958468/3890388f-759d-4e72-9bff-533b59d3c15a)
+5. [이용약관](https://www.wemix.com/ko/policy/terms)에도, 플레이왈렛(PLAY WALLET)의 경우 ***`프라이빗키를 별도로 저장하지 않는다는 문구가 빠져있음***. 
 
 
 ### :no_entry_sign: **b. 불법 거래업자 운영 (:red_circle:거래소)**
@@ -105,3 +106,7 @@ __**2. 거래업자** (관련 유권해석)
 #### _i. 위 두 법인을 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)***`100% 소유한 모회사는 코스닥 상장사인 위메이드`*** 
 1. 한국 법인: 주식회사 위메이드 (
 [사업자번호: 209-81-24419](https://github.com/WemixResearcher/WemixResearcher/issues/1#issue-1977905503))
+
+
+
+
